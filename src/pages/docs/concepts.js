@@ -21,25 +21,25 @@ const ConceptsPage = () => (
     </div>
     <ul>
       <li>
-        <Link to="docs/concepts/templates">Templates</Link>
+        <Link to="/docs/concepts/templates">Templates</Link>
       </li>
       <li>
-        <Link to="docs/concepts/commands">Commands</Link>
+        <Link to="/docs/concepts/commands">Commands</Link>
       </li>
       <li>
-        <Link to="docs/concepts/expressions">Expressions</Link>
+        <Link to="/docs/concepts/expressions">Expressions</Link>
       </li>
       <li>
-        <Link to="docs/concepts/functions">Functions</Link>
+        <Link to="/docs/concepts/functions">Functions</Link>
       </li>
       <li>
-        <Link to="docs/concepts/auto-escaping">Auto Escaping</Link>
+        <Link to="/docs/concepts/auto-escaping">Auto Escaping</Link>
       </li>
       <li>
-        <Link to="docs/concepts/type-system">Type System</Link>
+        <Link to="/docs/concepts/type-system">Type System</Link>
       </li>
       <li>
-        <Link to="docs/concepts/injected-data">Injected Data</Link>
+        <Link to="/docs/concepts/injected-data">Injected Data</Link>
       </li>
     </ul>
   </Layout>

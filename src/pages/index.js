@@ -10,13 +10,13 @@ const IndexPage = () => (
     <p>Welcome to the Closure Template Documentation</p>
     <ul>
       <li>
-        <Link to="docs/concepts">Concepts</Link>
+        <Link to="/docs/concepts">Concepts</Link>
       </li>
       <li>
-        <Link to="docs/reference">Reference</Link>
+        <Link to="/docs/reference">Reference</Link>
       </li>
       <li>
-        <Link to="docs/developer-guide">Developer Guide</Link>
+        <Link to="/docs/developer-guide">Developer Guide</Link>
       </li>
     </ul>
   </Layout>
